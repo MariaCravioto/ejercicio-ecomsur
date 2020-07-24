@@ -1,0 +1,27 @@
+@media screen and (max-width:1024px){
+}
+
+@media screen and (max-width:920px){
+
+}
+
+@media screen and (max-width:768px){
+  .largenav {
+    display: block;
+  }
+  .smallnav{
+    display: none;
+  }
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav a {font-size: 18px;}
+}
+
+@media screen and (max-width:414px){
+
+}
+
+@media screen and (max-width:320px){
+
+}
